@@ -15,4 +15,5 @@ Daqui em diante para a trilha e cai para as quebras dos sons separados.
 - Cena do boto chegando. (10 segundos), virando a câmera e mostrando outros pescadores alinhados esperando a pesca.
 - Nessa cena já acontece uma interação de pesca genérica. [transição da sonoplastia lenta para a agitada, evidenciando a ação].
 - Assim que rolou uma pesca com o começo da trilha sonora agitada, dá pra fazer as quebras de cena, e um desses quadros da agitação é o pescador jogando alguma coisa na caixa da bike e correndo pra dentro da água. (Aqui a câmera acompanha o pescador pra dentro da água com o quadro na linha da água. Quando a câmera entrar na água quebra a trilha sonora e entram só os sons subaquáticos dos botos.
+- 
 
