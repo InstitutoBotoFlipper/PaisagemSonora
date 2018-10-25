@@ -3,7 +3,7 @@
 Começo tela preta com a trilha sonora e os letreiros do começo do DOC, daqui vai sair pra dar o close no despertador.
 Daqui em diante para a trilha e cai para as quebras dos sons separados.
 
-1 - [ritmo rápido] Cena botando pé no chão, acendendo a luz, abrindo torneira, água no rosto, chaleira fervendo, café passando, take dos passos caminhando até a bike
+1 - [ritmo rápido] Cena botando pé no chão, acendendo a luz, abrindo torneira, água no rosto, chaleira fervendo, café passando, take dos passos caminhando até a bike *Ver como vamos fazer isso, pois podem ter os sons de outros elementos.
 - (Transição cena | som da porta fechando, enquanto o foco que estava em movimento vai pra caixa da bike).
 - tarrafa caindo na caixa da bike [Corte seco, pra próxima cena]
 - [Entra os sons ambientes(vento, aves, cachorro). Trilha sonora mais agitada conforme a velocidade do pedal] Cena do pescador se deslocando.
