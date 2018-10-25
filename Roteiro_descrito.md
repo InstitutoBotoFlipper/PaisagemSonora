@@ -17,4 +17,4 @@
 15 - Caixa do mercado (foco nos produtos)
 16 - Cara vendo os valores aumentarem e chegar no limite do valor que ele conseguiu com a pesca.
 17 - tira um produto essencial que ele escolheu e joga as moedas
-18 - Finaliza com moça da caixa fechando a gaveta
+18 - Finaliza com moça da caixa fechando a gaveta *Close out?
